@@ -18,3 +18,11 @@ CovertJaguar Letsplay playlist: https://www.youtube.com/playlist?list=PLgalHV4Qj
 Forecaster Letsplay playlist: https://www.youtube.com/playlist?list=PLrrr37cVgC0EBnR9aaTFjbOg3XHSCwWv3
 
 **Bballboy2002** Letsplay playlist: https://www.youtube.com/playlist?list=PL715v2ZzKDvinjU8oCyqCt5gFmVj2v473
+
+### Regarding mod suggestions:
+
+#### Feel free to submit mod suggestions as issues!
+
+If you are opposed to adding a mod for any reason you are required to voice your reasons for this in the comments on the issue. Reactions and similar will be ignored when deciding if a mod should be added or not.
+
+As usual the server admins have final say in whether a mod will be added or not.
