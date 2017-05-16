@@ -12,3 +12,7 @@ CovertJaguar Letsplay playlist: https://www.youtube.com/playlist?list=PLgalHV4Qj
 Forecaster Announcement video: https://www.youtube.com/watch?v=GlfNt-UadYM
 
 Forecaster Letsplay playlist: https://www.youtube.com/playlist?list=PLrrr37cVgC0EBnR9aaTFjbOg3XHSCwWv3
+
+CovertJaguar Announcement Video: https://www.youtube.com/watch?v=o5ldUmnA6F8
+
+CovertJaguar Letsplay playlist: https://www.youtube.com/playlist?list=PLgalHV4QjbR_fZMyATY-oEBiWh1FR7-7O
