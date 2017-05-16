@@ -17,4 +17,4 @@ CovertJaguar Letsplay playlist: https://www.youtube.com/playlist?list=PLgalHV4Qj
 
 Forecaster Letsplay playlist: https://www.youtube.com/playlist?list=PLrrr37cVgC0EBnR9aaTFjbOg3XHSCwWv3
 
-**Bballbot2002** Letsplay playlist: https://www.youtube.com/playlist?list=PL715v2ZzKDvinjU8oCyqCt5gFmVj2v473
+**Bballboy2002** Letsplay playlist: https://www.youtube.com/playlist?list=PL715v2ZzKDvinjU8oCyqCt5gFmVj2v473
