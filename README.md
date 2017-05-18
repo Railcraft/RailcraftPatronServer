@@ -1,4 +1,4 @@
-# RailcraftPatronServerIssues
+# Railcraft Patron Server Issues
 Issue tracking for the Railcraft Patron Server &amp; Modpack
 
 ### Note that issues are for issues or requests regarding the server or modpack. Not todo's for in-game projects.
